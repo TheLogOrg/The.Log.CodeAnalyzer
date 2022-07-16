@@ -24,8 +24,8 @@
         "documentationRules": {
             "xmlHeader": true,
             "headerDecoration": "----------------------------------------------------------------------------",
-            "companyName": "AnyLog",
-            "copyrightText": "Copyright (c) AnyLog Project"
+            "companyName": "TheLogOrg",
+            "copyrightText": "Copyright (c) The.Log Project"
         }
     }
 }
