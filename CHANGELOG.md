@@ -1,5 +1,11 @@
 # The.Log.CodeAnalyzer Changelog
 
+## 1.1.1 (2022-07-16)
+
+### Bug Fixes
+
+- Fixed typo for rule CA1014.
+
 ## 1.1.0 (2022-07-16)
 
 ### Features
