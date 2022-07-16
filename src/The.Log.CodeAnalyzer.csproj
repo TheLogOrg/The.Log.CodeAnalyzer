@@ -4,7 +4,7 @@
     <Authors>Wolf Bublitz</Authors>
     <Product>CodeAnalyzer</Product>
     <RepositoryUrl>https://github.com/TheLogOrg/The.Log.CodeAnalyzer</RepositoryUrl>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
   </PropertyGroup>
 
   <!-- Release Build Settings -->
